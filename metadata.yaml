@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32159'
     url: http://www.gutenberg.org/2009/agents/32159
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26657#The-Motor-Pirate
 gutenberg_issued: '2008-09-19'
 gutenberg_type: Text
 identifiers:
